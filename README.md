@@ -1,6 +1,6 @@
 👋 Hi there, I’m @joanna-foss !
 - I’m interested in the great outdoors, beverages, and good conversation.
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, Vanilla JS, jQuery, ES6, various APIs, & React.
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, Vanilla JS, jQuery, ES6, various APIs, React, Java, MySQL, and more.
 - I’m looking for potential collaboration partners and networking opportunities.
 - 📫 Feel free to reach out to me here: www.linkedin.com/in/joanna-foss-aka-jocodes
 
