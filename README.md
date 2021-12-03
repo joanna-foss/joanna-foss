@@ -8,7 +8,7 @@ I'm thrilled at becoming a programmer because it means I'll forever be a student
 - hiking 🥾<br>
 - warm beverages 🍵<br>
 - chess ♟️<br>
-- meanful conversations 🤝<br><br>
+- meaningful conversations 🤝<br><br>
 🌱  &nbsp; I’m currently learning Servlets, JSPs, & MySQL<br>
 📫  &nbsp; Feel free to reach out to me on <a href="www.linkedin.com/in/joanna-foss-aka-jocodes">LinkedIn</a><br><br>
 
