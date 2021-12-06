@@ -9,7 +9,7 @@ I'm thrilled at becoming a programmer because it means I'll forever be a student
 - warm beverages 🍵<br>
 - chess ♟️<br>
 - meaningful conversations 🤝<br><br>
-🌱  &nbsp; I’m currently learning Servlets, JSPs, & MySQL<br>
+🌱  &nbsp; I’m currently learning JavaBeans and Node.js<br>
 📫  &nbsp; Feel free to reach out to me on <a href="www.linkedin.com/in/joanna-foss-aka-jocodes">LinkedIn</a><br><br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joanna-foss&count_private=true&theme=tokyonight&showicons=true)]()
