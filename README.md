@@ -11,8 +11,8 @@ I'm thrilled at becoming a programmer because it means I'll forever be a student
 - meaningful conversations 🤝<br><br>
 🌱  &nbsp; I’m currently learning JavaBeans and Node.js<br>
 📫  &nbsp; Feel free to reach out to me on<br>
-<a href="www.linkedin.com/in/joanna-foss-aka-jocodes"><img
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>
+<a href="http://www.linkedin.com/in/joanna-foss-aka-jocodes"><img
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joanna-foss&count_private=true&theme=tokyonight&showicons=true)]()
 
