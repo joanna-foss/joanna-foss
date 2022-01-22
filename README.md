@@ -1,15 +1,13 @@
 <div align="center">
 <h1>👋 Hi there, I’m Joanna.</h1>
-<h6>An enthusiastic full stack developer and USAF veteran in SA, TX</h6><br>
-Currently, I can be found coding for 8 hrs a day with the fine folks at Codeup.<br>
-I'm thrilled at becoming a programmer because it means I'll forever be a student.<br><br>
+<h6>An enthusiastic full stack developer and USAF veteran in SA, TX</h6>
 <h3><em>I enjoy:</em></h3>
 - expanding my horizons 🤓<br>
 - hiking 🥾<br>
 - warm beverages 🍵<br>
 - chess ♟️<br>
 - meaningful conversations 🤝<br><br>
-🌱  &nbsp; I’m currently learning Node.js and Spring<br>
+🌱  &nbsp; I’m currently furthering my knowledge in CSS.<br>
 📫  &nbsp; Feel free to reach out to me on<br>
 <a href="http://www.linkedin.com/in/joanna-foss-aka-jocodes"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
