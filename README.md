@@ -1,11 +1,11 @@
 <div align="center">
-<h1>👋 Hi there, I’m Joanna.</h1>
+<h1>I’m Joanna.</h1>
 <h6>An enthusiastic full stack developer and USAF veteran in SA, TX</h6>
 <h3><em>I enjoy:</em></h3>
+- chess ♟️<br>
 - expanding my horizons 🤓<br>
 - hiking 🥾<br>
 - warm beverages 🍵<br>
-- chess ♟️<br>
 - meaningful conversations 🤝<br><br>
 🌱  &nbsp; I’m currently tackling advanced CSS.<br>
 📫  &nbsp; Feel free to reach out to me on<br>
