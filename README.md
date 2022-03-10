@@ -11,6 +11,8 @@
 📫  &nbsp; Feel free to reach out to me on<br>
 <a href="http://www.linkedin.com/in/joanna-foss-aka-jocodes"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
+
+View <a href="https://joanna-foss.github.io/joanna.github.io/">My Personal Site</a><br><br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanna-foss&layout=compact)](https://github.com/joanna-foss/github-readme-stats)
 
