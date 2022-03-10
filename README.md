@@ -7,7 +7,7 @@
 - hiking 🥾<br>
 - warm beverages 🍵<br>
 - meaningful conversations 🤝<br><br>
-🌱  &nbsp; I’m currently learning to develop APIs.<br>
+🌱  &nbsp; I’m currently working on completing the Harvard CS50 course.<br><br>
 📫  &nbsp; Feel free to reach out to me on<br>
 <a href="http://www.linkedin.com/in/joanna-foss-aka-jocodes"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
