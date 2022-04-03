@@ -1,6 +1,6 @@
 <div align="center">
 <h1>I’m Joanna.</h1>
-<h4>An enthusiastic full-stack developer and USAF veteran in SA, TX</h4>
+<h4>An enthusiastic full-stack developer and USAF veteran in TX</h4>
 <h3><em>I enjoy:</em></h3>
 - chess ♟️<br>
 - expanding my horizons 🤓<br>
@@ -8,9 +8,6 @@
 - warm beverages 🍵<br>
 - meaningful conversations 🤝<br><br>
 🌱  &nbsp; I’m currently working on completing the Harvard CS50 course.<br><br>
-📫  &nbsp; Feel free to reach out to me on<br>
-<a href="http://www.linkedin.com/in/jo-foss"><img
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><br><br>
 
 View <a href="https://joanna-foss.github.io/joanna.github.io/">My Personal Site</a><br><br>
   
