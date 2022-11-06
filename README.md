@@ -1,6 +1,5 @@
 <div align="center">
-<h1>I’m Joanna.</h1>
-<h4>An enthusiastic full-stack developer and USAF veteran in TX</h4>
+<h1>Hello, I’m Jo.</h1>
 <h3><em>I enjoy:</em></h3>
 - chess ♟️<br>
 - expanding my horizons 🤓<br>
