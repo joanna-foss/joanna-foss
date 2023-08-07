@@ -2,10 +2,8 @@
 <h1>Hello, I’m Jo.</h1>
 <h3><em>I enjoy:</em></h3>
 - chess ♟️<br>
-- expanding my horizons 🤓<br>
 - hiking 🥾<br>
 - warm beverages 🍵<br>
-- meaningful conversations 🤝<br><br>
 🌱  &nbsp; I’m currently working on completing the Harvard CS50 course.<br><br>
 
 View <a href="https://joanna-foss.github.io/joanna.github.io/">My Personal Site</a><br><br>
