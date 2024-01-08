@@ -4,7 +4,6 @@
 - chess ♟️<br>
 - hiking 🥾<br>
 - warm beverages 🍵<br>
-🌱  &nbsp; I’m currently working on completing the Harvard CS50 course.<br><br>
 
 View <a href="https://joanna-foss.github.io/joanna.github.io/">My Personal Site</a><br><br>
   
