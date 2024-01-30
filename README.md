@@ -12,7 +12,8 @@ View <a href="https://joanna-foss.github.io/joanna.github.io/">My Personal Site<
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joanna-foss&" alt="joanna-foss">
             
 <br>
-<br>  
+<br>
+
 ![](https://komarev.com/ghpvc/?username=joanna-foss&color=ff69b4) 
 </div>
 <!---
